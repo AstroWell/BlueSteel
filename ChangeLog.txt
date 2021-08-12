@@ -1,4 +1,4 @@
-BlueSteel 1.2 [2021-]
+BlueSteel 1.2 [2021-08-12]
 -------------------------------
 
 	- New Size0 shuttle cockpit
