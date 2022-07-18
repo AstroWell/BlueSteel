@@ -3,6 +3,7 @@ BlueSteel 1.3 [2022-07-?]
 
 	- Add Localization config
 	- Add French Language
+	- Add Crew Report and science storage to all crew module
 	
 BlueSteel 1.2 [2021-08-12]
 -------------------------------
